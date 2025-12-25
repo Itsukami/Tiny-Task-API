@@ -86,7 +86,7 @@ curl "http://127.0.0.1:8000/tasks?limit=10\&done=false"
 **Update Task**
 
 curl \-X PATCH "http://127.0.0.1:8000/tasks/1" \
-     \-H "Content-Type: application/json" \  
+     \-H "Content-Type: application/json" \ 
      \-d '{"done": true}'
 
 **Delete Task**
