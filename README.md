@@ -77,7 +77,7 @@ python \-m pytest \-v
 
 curl \-X POST "http://127.0.0.1:8000/tasks" \
      \-H "Content-Type: application/json" \
-     \-d '{"title": "Complete the HENNGE challenge"}'
+     \-d '{"title": "Complete the challenge"}'
 
 **List Tasks (with pagination)**
 
