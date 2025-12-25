@@ -5,7 +5,7 @@ Designed as a portfolio MVP demonstrating clean architecture, strict validation,
 
 ## **Features**
 
-* **FastAPI** for high-performance Async I/O.  
+* **FastAPI** for a clean, modern REST API. 
 * **SQLite** (Standard Library) for lightweight persistence.  
 * **Pydantic** for strict data validation (Schema enforcement).  
 * **Pytest** for automated integration testing.  
