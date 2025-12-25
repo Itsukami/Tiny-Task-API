@@ -28,6 +28,8 @@ tiny-task-api/
 
 ## **Setup & Run**
 
+## Prerequisties
+
 ### **1\. Environment Setup**
 
 **Mac / Linux:**
