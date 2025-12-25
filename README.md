@@ -30,7 +30,7 @@ tiny-task-api/
 
 ### Prerequisties
 
-* **Python3.12+* (Required due to dependencies like pydantic-core)
+* **Python3.12+** (Required due to dependencies like pydantic-core)
 
 ### **1\. Environment Setup**
 
